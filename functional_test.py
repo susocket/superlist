@@ -1,3 +1,4 @@
+#!/user/bin/python
 from selenium import webdriver
 import unittest
 
